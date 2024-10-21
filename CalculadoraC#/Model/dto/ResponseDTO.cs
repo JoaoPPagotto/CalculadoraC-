@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculadoraC_.Model.dto
 {
-    internal class ResponseDTO
+    public class ResponseDTO
     {
         private int result {  get; set; }
 
